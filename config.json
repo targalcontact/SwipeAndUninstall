@@ -7,12 +7,12 @@
     },
     "interstitial": {
       "enabled": true,
-      "provider": "facebook",
+      "provider": "admob",
       "after_actions": 10
     },
     "native": {
       "enabled": true,
-      "provider": "facebook",
+      "provider": "admob",
       "show_every_swipes": 2
     },
     "admob_ids": {
