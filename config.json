@@ -2,7 +2,7 @@
   "ads": {
     "enabled": true,
     "app_open": { "enabled": true, "provider": "admob" },
-    "interstitial": { "enabled": true, "provider": "facebook", "after_actions": 5 },
+    "interstitial": { "enabled": true, "provider": "admob", "after_actions": 10 },
     "native": { "enabled": true, "provider": "facebook" }
   }
 }
