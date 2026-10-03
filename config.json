@@ -13,7 +13,7 @@
     "native": {
       "enabled": true,
       "provider": "admob",
-      "show_every_swipes": 2
+      "show_every_swipes": 4
     },
     "admob_ids": {
       "app_open": "ca-app-pub-3940256099942544/9257395921",
